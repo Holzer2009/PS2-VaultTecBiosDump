@@ -32,7 +32,7 @@ Entwickelt von Holzer2009 mit Unterstützung modernster Google AI-Algorithmen.
     Sobald die Meldung EXTRACTION COMPLETE erscheint, findest du deine Dumps sauber benannt auf deinem USB-Stick.
 
 ⚠️ Warum dieses Tool?
-Im Gegensatz zu vielen veralteten Homebrew-Tools nutzt dieses Utility optimierte Hardware-Routinen, die sowohl auf alten Fat-Modellen als auch auf den neuesten Slim-Revisionen (inkl. 9000x) getestet wurden. Durch die KI-gestützte Logik werden Adresskonflikte vermieden und ein valider Dump für Emulatoren wie PCSX2 garantiert.
+Im Gegensatz zu vielen veralteten Homebrew-Tools nutzt dieses Utility optimierte Hardware-Routinen, die sowohl auf alten Fat-Modellen als auch auf den Slim-Revisionen getestet wurden. Durch die KI-gestützte Logik werden Adresskonflikte vermieden und ein valider Dump für Emulatoren wie PCSX2 garantiert.
 Disclaimer: Dieses Tool enthält keinen urheberrechtlich geschützten Code von Sony. Es dient ausschließlich zum Erstellen von privaten Sicherheitskopien der eigenen Hardware-Firmware. Vault-Tec übernimmt keine Haftung für verstrahlte Konsolen oder Mutationen während des Dump-Vorgangs.
 
 ---
