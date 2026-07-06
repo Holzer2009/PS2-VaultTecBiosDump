@@ -1,5 +1,8 @@
 # PS2 BIOS DUMPER - RobCo Industries Edition ☢️
 
+Update 1.4
+New BDM Engine
+
 [Scroll down for English version](#english-version)
 
 ---
